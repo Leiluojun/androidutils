@@ -33,6 +33,7 @@ import android.text.style.UnderlineSpan;
 
 import static android.graphics.BlurMaskFilter.Blur;
 
+
 public class SpannableStringUtils {
 
     private SpannableStringUtils() {
