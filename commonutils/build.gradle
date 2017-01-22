@@ -28,11 +28,5 @@ android {
 dependencies {
     provided rootProject.ext.deps.design
     provided rootProject.ext.deps.supportV4
-    testCompile rootProject.ext.deps.junit
-    testCompile rootProject.ext.deps.truth
-    testCompile rootProject.ext.deps.robolectric
 }
-apply from: "https://raw.githubusercontent.com/xiaopansky/android-library-publish-to-jcenter/master/bintrayUpload.gradle"
-//gradlew bintrayUpload
-
 group = 'lin5667181@163.com'
