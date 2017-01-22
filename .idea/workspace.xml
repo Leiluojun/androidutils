@@ -1,101 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c06305bc-55c0-4123-8055-e8b9bd88c2a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/commonutils/commonutils.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/.gitignore" afterPath="$PROJECT_DIR$/commonutils/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/build.gradle" afterPath="$PROJECT_DIR$/commonutils/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/proguard-rules.pro" afterPath="$PROJECT_DIR$/commonutils/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/commonutils/src/main/AndroidManifest.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ActivityUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ActivityUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/AppUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/AppUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/BarUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/BarUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/CameraUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/CameraUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/CleanUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/CleanUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ClipboardUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ClipboardUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/CloseUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/CloseUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ConstUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ConstUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ConvertUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ConvertUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/CrashUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/CrashUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/DeviceUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/DeviceUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/EmptyUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/EmptyUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/EncodeUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/EncodeUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/EncryptUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/EncryptUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/FileUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/FileUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/FlashlightController.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/FlashlightController.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/HandlerUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/HandlerUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ImageUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ImageUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/IntentUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/IntentUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/KeyboardUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/KeyboardUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/LocationUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/LocationUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/LogUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/LogUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/LunarUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/LunarUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/NetworkUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/NetworkUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/PhoneUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/PhoneUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/PinyinUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/PinyinUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ProcessUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ProcessUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/RegexUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/RegexUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/SDCardUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SDCardUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/SPUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SPUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ScreenUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ScreenUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ServiceUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ServiceUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ShellUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ShellUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/SizeUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SizeUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/SnackbarUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SnackbarUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/StringUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/StringUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ThreadPoolUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ThreadPoolUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/TimeUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/TimeUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ToastUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ToastUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/Utils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/VibrationUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/VibrationUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/java/com/yuhj/utilcode/utils/ZipUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/ZipUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/res/drawable/snackbar_action_bg.xml" afterPath="$PROJECT_DIR$/commonutils/src/main/res/drawable/snackbar_action_bg.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/res/drawable/snackbar_action_bg_focused.xml" afterPath="$PROJECT_DIR$/commonutils/src/main/res/drawable/snackbar_action_bg_focused.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/main/res/layout/design_layout_snackbar_include.xml" afterPath="$PROJECT_DIR$/commonutils/src/main/res/layout/design_layout_snackbar_include.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/ClipboardUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/ClipboardUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/ConvertUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/ConvertUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/DogeTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/DogeTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/EmptyUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/EmptyUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/EncodeUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/EncodeUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/EncryptUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/EncryptUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/FileUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/FileUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/LogUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/LogUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/PinyinUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/PinyinUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/RegexUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/RegexUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/SDCardUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/SDCardUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/SPUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/SPUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/StringUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/StringUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/TestUtils.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/TestUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/TimeUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/TimeUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/java/com/blankj/utilcode/utils/ZipUtilsTest.java" afterPath="$PROJECT_DIR$/commonutils/src/test/java/com/blankj/utilcode/utils/ZipUtilsTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/encrypt/MD5.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/encrypt/MD5.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/GBK.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/file/GBK.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/UTF16BE.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/file/UTF16BE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/UTF8.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/file/UTF8.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/Unicode.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/file/Unicode.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/file/child/GBk.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/file/child/GBk.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/test.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/zip/testZip/testDir/test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/testDir/test.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/zip/testZip/test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/测试.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/zip/testZip/测试文件夹/测试.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/utilcode/src/test/res/zip/testZip/测试文件夹/测试.txt" afterPath="$PROJECT_DIR$/commonutils/src/test/res/zip/testZip/测试.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_24_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_24_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commonutils/build.gradle" afterPath="$PROJECT_DIR$/commonutils/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commonutils/commonutils.iml" afterPath="$PROJECT_DIR$/commonutils/commonutils.iml" />
     </list>
     <ignored path="androidutils.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,7 +54,7 @@
       <file leaf-file-name="SpannableStringUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="462">
               <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding />
             </state>
@@ -141,8 +64,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commonutils/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="399">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -169,6 +92,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -2310,689 +2234,11 @@
             </list>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/utilcode">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugProguardFiles" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="packageReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="validateSigningDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareDebugDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a bundle containing the library in debug." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="bundleDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="copyDebugLint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="lintDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a bundle containing the library in release." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="bundleRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mockableAndroidJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':utilcode'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="packageReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeReleaseProguardFiles" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="javadocJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="deviceCheck" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on all variants." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="lint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="install" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAndroidTestBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="testReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleDefault" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':utilcode'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Debug builds." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugAndroidTestManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugUnitTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preDebugAndroidTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="extractDebugAnnotations" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugAndroidTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processReleaseUnitTestJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportSupportV42400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportDesign2400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareDebugAndroidTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="checkReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="packageDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeReleaseJniLibFolders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareReleaseDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="deviceAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="uninstallDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="incrementalReleaseUnitTestJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preReleaseBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all variants of all applications and secondary packages." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="incrementalReleaseJavaCompilationSafeguard" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseUnitTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the android (on device) tests for the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="installDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all device checks on currently connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="connectedCheck" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs the tests for debug on connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="connectedDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstall all applications." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="uninstallAll" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all the Test applications." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="extractReleaseAnnotations" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Publishes artifacts to bintray.com." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="bintrayUpload" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preDebugUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileLint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAndroidTestResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeReleaseShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="sourcesJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the Android dependencies of the project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="androidDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugUnitTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="extractProguardFiles" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformClassesWithDexForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="copyReleaseLint" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareReleaseUnitTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for all variants." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:24.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2400Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="testDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="connectedAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformResourcesWithMergeJavaResForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseUnitTestJavaWithJavac" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformResourcesWithMergeJavaResForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileReleaseAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="lintRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="checkDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugJniLibFolders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prints out all the source sets defined in this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="sourceSets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeReleaseAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="packageDebugRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateReleaseBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="prepareDebugUnitTestDependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the signing info for each variant." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="signingReport" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestAidl" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="mergeDebugAndroidTestShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="preDebugBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles all Release builds." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="assembleRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="compileDebugAndroidTestRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="processDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="packageDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="generateReleaseResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':utilcode'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/utilcode" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7423116451000" />
+        <entry key="$PROJECT_DIR$" value="7423117606000" />
         <entry key="$USER_HOME$/DymProject/Android/dayima_1/dayima" value="10070782651937" />
       </map>
     </option>
@@ -3894,12 +3140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3929,6 +3169,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="commonutils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidutils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidutils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commonutils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -4000,6 +3262,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4338,6 +3606,21 @@
       <option name="presentableId" value="Default" />
       <updated>1484545877895</updated>
     </task>
+    <task id="LOCAL-00001" summary="发布到仓库">
+      <created>1485054353681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485054353681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="发布到仓库">
+      <created>1485054377327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485054377327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -4384,11 +3667,39 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="发布到仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="发布到仓库" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonutils/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -4399,7 +3710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commonutils/src/main/java/com/yuhj/utilcode/utils/SpannableStringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="462">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding />
         </state>
@@ -4423,8 +3734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commonutils/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
         </state>
       </provider>
