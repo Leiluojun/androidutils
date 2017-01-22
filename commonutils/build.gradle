@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+// JitPack Maven
+apply plugin: 'com.github.dcendents.android-maven'
 
 android {
     compileSdkVersion rootProject.ext.android.compileSdkVersion
@@ -27,3 +29,5 @@ dependencies {
 }
 apply from: "https://raw.githubusercontent.com/xiaopansky/android-library-publish-to-jcenter/master/bintrayUpload.gradle"
 //gradlew bintrayUpload
+
+group='lin5667181@163.com'
