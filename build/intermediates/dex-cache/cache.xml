@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_ad625f07ec84dac65704a0f96181dd7e6dd05b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_7537064682ad09da15e93870f805a2b22b4367b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/haha-2.0.3_5f0f899b35bb3a323ef794203c275c64074d63fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_59ed0269b81264b8a99481df6557f1061914dc5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5/288101b16513158c2923ad3fb6161d1452b65e73/leakcanary-watcher-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="288101b16513158c2923ad3fb6161d1452b65e73">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5_220099d1e0b1e8c855c36c85f62a83a7f8875d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7a2672b3122b897a0751f327929ae405ea02bf7">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.squareup.leakcanary-leakcanary-android-1.5_2f33b3b674b9b3cd2de4cd821eb2f4fe4c4f8236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_6f51704f994308c44718d73dc75abcfdc9dea230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_df744cfd43dc3ac049471563614617e94681c922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_d381feae9f0619da7a086998c0ce646dc89bd001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/lin5667181@163.com/commonutils/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="55999300631129ffe974ff273053c8afae4733d1">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/lin5667181@163.com-commonutils-unspecified_b66b28d3149a80553322578936ec28111933b6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_f0e6d56191e7092633ec49dd31b1621f94d753a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_e4faa9830489822685e730592b802be0f61ecc20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5/3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f/leakcanary-analyzer-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3277b0b0c2ace34a2edb5ddf9d1f67829561fb8f">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.5_6faa0f4996e9ad2d8b353b5b930c3a852ce27152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.0.0_374885323f455b8d5ef2d2f5766b5fedf57e52fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/yuhuijun/Documents/AndroidDevolper/GitPro/androidutils/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_bea49ca126ef90c0054440b7cb60f2745c7d37ba.jar" />
+    </item>
+
+</items>
